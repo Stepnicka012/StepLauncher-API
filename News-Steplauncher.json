@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "ultima_actualizacion": "2025-02-16",
+    "noticias": [
+        {
+            "titulo": "Compatibilidad con fondos animados",
+            "descripcion": "Ahora puedes establecer fondos animados en la pantalla de carga con archivos MP4, OGG y GIF.",
+            "fecha": "2025-02-15"
+        }
+    ]
+}
