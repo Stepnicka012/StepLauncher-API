@@ -1,0 +1,41 @@
+[
+    {
+        "Icon":"https://media.forgecdn.net/avatars/thumbnails/29/69/64/64/635838945588716414.jpeg",
+        "Name":"Just Enough Items (JEI)",
+        "URL":"https://www.curseforge.com/minecraft/mc-mods/jei",
+        "Autor":"mezz",
+        "Downloads":"405.851.446",
+        "Date":"Nov 23, 2015",
+        "Version":{
+            "1.21.1":{
+                "Forge":"https://mediafilez.forgecdn.net/files/5846/879/jei-1.21.1-forge-19.21.0.247.jar"
+            },
+            "1.20.1":{
+                "Forge":"https://mediafilez.forgecdn.net/files/6075/247/jei-1.20.1-forge-15.20.0.106.jar"
+            },
+            "1.19.2":{
+                "Forge":"https://mediafilez.forgecdn.net/files/5846/858/jei-1.19.2-forge-11.8.1.1034.jar"
+            },
+            "1.18.2":{
+                "Forge":"https://mediafilez.forgecdn.net/files/5846/864/jei-1.18.2-forge-10.2.1.1009.jar"
+            },
+            "1.16.5":{
+                "Forge":"https://mediafilez.forgecdn.net/files/5846/870/jei-1.16.5-7.8.0.1013.jar"
+            },
+            "1.12.2":{
+                "Forge":"https://mediafilez.forgecdn.net/files/5846/804/jei_1.12.2-4.16.1.1013.jar"
+            }
+        },
+        "Source":"https://github.com/mezz/JustEnoughItems?tab=readme-ov-file#121",
+        "Forge":"True",
+        "Quilt":"False",
+        "Fabric":"False",
+        "Model":"Mod",
+        "Galery":[
+            "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
+            "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
+            "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
+            "https://media.forgecdn.net/attachments/31/420/tgafkma.png"
+        ]
+    }
+]
