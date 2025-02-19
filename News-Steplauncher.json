@@ -1,10 +1,10 @@
 {
     "version": "1.0.0",
-    "ultima_actualizacion": "2025-02-16",
+    "ultima_actualizacion": "2025-02-18",
     "noticias": [
         {
-            "titulo": "Compatibilidad con fondos animados",
-            "descripcion": "Ahora puedes establecer fondos animados en la pantalla de carga con archivos MP4, OGG y GIF.",
+            "titulo": "¡Bienvenido a StepLauncher!",
+            "descripcion": "¡Gracias por unirte a StepLauncher! Explora, personaliza y disfruta de la mejor experiencia para jugar Minecraft.",
             "enlace":"https://stepnickastudios.netlify.app",
             "fecha": "2025-02-15"
         }
