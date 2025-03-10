@@ -6,7 +6,8 @@
         "VideoSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/background/FondosMovent/Minecraft-001.mp4",
         "ImgSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/Banner.png",
         "AutorAdd": "Autor: Juan Pérez",
-        "Time": 1
+        "Time": 1,
+        "ID": "HolaMundo"
     },
     
     {
@@ -16,6 +17,7 @@
         "VideoSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/background/FondosMovent/Minecraft-001.mp4",
         "ImgSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/Banner.png",
         "AutorAdd": "Autor: Juan Santiago",
-        "Time": 5
+        "Time": 5,
+        "ID": "HolaMundoS"
     }
 ]
