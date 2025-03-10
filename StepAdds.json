@@ -6,6 +6,16 @@
         "VideoSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/background/FondosMovent/Minecraft-001.mp4",
         "ImgSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/Banner.png",
         "AutorAdd": "Autor: Juan Pérez",
-        "Time": 22
+        "Time": 0.5
+    },
+    
+    {
+        "Mode": false,
+        "AdTittle": "Nuevo Título",
+        "Link": "https://ejemplo.com",
+        "VideoSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/background/FondosMovent/Minecraft-001.mp4",
+        "ImgSrc": "https://raw.githubusercontent.com/tuusuario/turepo/main/assets/Banner.png",
+        "AutorAdd": "Autor: Juan Pérez",
+        "Time": 5
     }
 ]
